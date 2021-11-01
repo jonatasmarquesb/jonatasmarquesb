@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 - 🔭 I’m currently working on back-end
-- 🌱 I’m currently learning Java
+- :books: I’m currently learning Java
 - 😄 Pronouns: ele / he 
 ##
 <div align="center">

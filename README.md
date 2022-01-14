@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 🔭 I’m currently working on back-end
+- 🔭 I’m currently working on front-end
 - :books: I’m currently learning Java
 - 😄 Pronouns: ele / he 
 ##
